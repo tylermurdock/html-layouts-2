@@ -1,5 +1,9 @@
 html-layouts-2
 ==============
+
+This is a learning file!
+
+
 Just like html-layout the original, each folder contains an image you need to recreate using HTML and CSS
 
 ### Learning Objectives (student will):
