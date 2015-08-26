@@ -1,0 +1,92 @@
+html, body {
+	height: 100%;
+}
+
+.background {
+	background-color: lightgray;
+	height: 100%;
+	padding: 5%;
+	padding-bottom: 0%;
+}
+
+.top-white-box {
+	background-color: white;
+	padding: 5%;
+}
+
+
+
+.click-box-parent{
+	position: relative;
+    left: -5px;
+    bottom: -5px;
+}
+
+.click-box{
+	display: inline-block;
+    height: 50px;
+    width: 20%;
+    margin: 5px;
+    border: 1px solid black;
+    max-width: 125px;
+
+}
+
+.click-font {
+	position: relative;
+	top:30%;
+	text-align: center;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+}
+
+#red-one {
+	background-color: red;
+}
+
+#blue-one {
+	background-color: blue;
+}
+
+.bottom-white-box {
+	height: 425px;
+	background-color: white;
+	margin-top: 5%;
+	padding: 5%;
+}
+
+.picture {
+	background-color: darkgray;
+	height: 250px;
+}
+
+.click-font2 {
+	position: relative;
+	top:45%;
+	text-align: center;
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+}
+
+footer div{
+	height: 50px;
+	background-color: black;
+
+}
+
+.links {
+	display: inline-block;
+	width: 100%;
+	color: white;
+	text-align: right;
+	position: relative;
+	top: 50%;
+}
+
+
+
+
+
+
